@@ -1,5 +1,5 @@
 # 锦森-Jinsen
-[![Header](https://raw.githubusercontent.com/Jinsens/Jinsen/Jinsen.png "Header")]
+[![Header](https://github.com/Jinsens/Jinsen/Jinsen.png "Header")]
 ## 模块介绍
 使用独创技术去除云控
 
