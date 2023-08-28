@@ -1,6 +1,6 @@
 {
   "version": "installer",
-  "versionCode": 999999,
+  "versionCode": 9999999999,
   "zipUrl": "https://github.com/Jinsens/Jinsen/releases/download/Jinsen/Jinsen-installer.zip",
   "changelog": "https://raw.githubusercontent.com/Jinsens/Jinsen/main/Jinsen.md"
 }
