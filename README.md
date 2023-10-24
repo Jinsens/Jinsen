@@ -39,6 +39,7 @@
 
 ## 使用说明
 
+配置文件在/data/jinsen/config.conf
 Magisk/Kernel SU刷入模块即可
 
 请不要删除/冻结Joyose，电量和性能，不然模块不会生效
